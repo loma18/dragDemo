@@ -26,4 +26,4 @@ class Index extends Component {
         );
     }
 }
-ReactDOM.render(<Index />, document.getElementById('lomaBlog'));
+ReactDOM.render(<Index />, document.getElementById('horse'));
